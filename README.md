@@ -1,7 +1,7 @@
 # Porous Media Modeling and Geomechanical Simulation for Geostorage Using MicroCT, NMR, and Wireline Log Data
 
 ## Overview
-This repository provides a complete workflow for characterizing, simulating, and evaluating geostorage capacity in subsurface formations, by integrating micro-CT scan images, NMR data, and wireline logs. This approach ensures high-fidelity modeling of pore structures, calibration of petrophysical properties, and advanced geomechanical simulations to identify optimal geostorage sites with high porosity and low stress.
+This repository provides a complete workflow for characterizing, simulating, and evaluating geostorage capacity in subsurface formations, by integrating micro-CT scan images, NMR data, and wireline logs. This approach ensures high-fidelity modeling of pore structures, calibration of petrophysical properties, and advanced geomechanical simulations to identify optimal geostorage sites with high porosity and low pressure.
 
 ---
 
