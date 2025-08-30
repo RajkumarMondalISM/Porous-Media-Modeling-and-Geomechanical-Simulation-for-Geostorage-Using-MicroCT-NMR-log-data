@@ -12,6 +12,9 @@ This repository provides a complete workflow for characterizing, simulating, and
 - **Method:** Apply advanced denoising and adaptive thresholding for binary segmentation (rock vs. pore).
 - **Outcome:** Binary images representing pore space for further network extraction.
 
+  <img width="1480" height="510" alt="image" src="https://github.com/user-attachments/assets/83e2f378-b2e4-452a-b190-bbdeda531a37" />
+
+
 ### 2. Pore Network Modeling: Maximal Ball Algorithm
 - **Objective:** Reconstruct pore network topology and metrics.
 - **Method:** Use the maximal ball algorithm for robust identification of pore bodies and throats, preserving connectivity and realistic geometry.
